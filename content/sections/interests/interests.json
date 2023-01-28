@@ -1,58 +1,51 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "React",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Python",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/snake.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "GraphQL",
+      "image": {
+        "src": "../../images/graphql.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Storybook",
+      "image": {
+        "src": "../../images/storybook.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Styled Components",
       "image": {
         "src": "../../images/nail-polish.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "TailwindCSS",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/tailwind.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
-      "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "PWA (Offline Support)",
-      "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Modern Tech-Stack",
+      "label": "GatsbyJS",
       "image": {
         "src": "../../images/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Blazing Fast",
-      "image": {
-        "src": "../../images/high-voltage.png",
         "alt": ""
       }
     }
