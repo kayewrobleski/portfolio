@@ -20,6 +20,7 @@
     "logo": { "text": "Kaye Wrobleski" },
     "navigation": {
       "header": [
+        { "label": "Projects", "url": "/#projects" },
         { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
@@ -33,7 +34,7 @@
       ]
     },
     "featureToggles": {
-      "useDarkModeAsDefault": false,
+      "useDarkModeAsDefault": true,
       "useDarkModeBasedOnUsersPreference": true,
       "useCookieBar": false
     }

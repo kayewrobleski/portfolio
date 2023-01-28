@@ -8,6 +8,13 @@
       }
     },
     {
+      "label": "React Native",
+      "image": {
+        "src": "../../images/mobile-phone.png",
+        "alt": ""
+      }
+    },
+    {
       "label": "Python",
       "image": {
         "src": "../../images/snake.png",
@@ -46,6 +53,13 @@
       "label": "GatsbyJS",
       "image": {
         "src": "../../images/gatsby.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Agile",
+      "image": {
+        "src": "../../images/mountain.png",
         "alt": ""
       }
     }
