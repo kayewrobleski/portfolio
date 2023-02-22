@@ -23,6 +23,28 @@
       ]
     },
     {
+      "visible": true,
+      "category": "⚙️ API",
+      "title": "Fitness Journal API",
+      "description": "REST API for creating strength based workout plans and tracking progress over time.",
+      "tags": ["NextJS", "Next Auth", "Postman"],
+      "image": {
+        "src": "../../images/fitness-journal-api.png",
+        "alt": "Fitness Journal API",
+        "linkTo": "https://www.postman.com/material-geoscientist-45243791/workspace/fitness-journal-api/collection/25605094-78071834-1beb-4ac6-af40-dc6bbd05519c?tab=pre-request-scripts"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/kayewrobleski/fitness-journal"
+        },
+        {
+          "type": "external",
+          "url": "https://www.postman.com/material-geoscientist-45243791/workspace/fitness-journal-api/collection/25605094-78071834-1beb-4ac6-af40-dc6bbd05519c?tab=pre-request-scripts"
+        }
+      ]
+    },
+    {
       "visible": false,
       "category": "🕹️ EASY AND QUICK SETUP",
       "title": "Add content and deploy!",
@@ -64,7 +86,7 @@
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "Visit my Github",
+    "url": "https://github.com/kayewrobleski"
   }
 }
